@@ -64,5 +64,5 @@ To run this project, you need the following Python libraries:
 - `joblib`
 ## Output
 
-![Output Image 1](https://github.com/PankajDevikar/Enrollment-Conversion-Rate-Optimization/blob/main/images/img1.png)
-![Output Image 2](https://github.com/PankajDevikar/Enrollment-Conversion-Rate-Optimization/blob/main/images/img2.png)
+![Output Image 1](images/img1.png)
+![Output Image 2](images/img1.png)
